@@ -1,3 +1,3 @@
 count = 0
-count *=4
+count *=5
 print(count)
